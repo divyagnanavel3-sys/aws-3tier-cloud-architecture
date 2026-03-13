@@ -15,4 +15,5 @@ User → Load Balancer → EC2 Instance → RDS Database
 
 ## Purpose
 
+
 This project is created to understand cloud architecture design and scalable infrastructure using AWS concepts.
